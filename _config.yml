@@ -1,4 +1,4 @@
-biaobenguanjiangjiedui.github.io# The Site Configuration
+# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: America/NewYork
+timezone: China/Guangzhou
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 标本博物馆 # the main title
+title: 标本馆讲解 # the main title
 
-tagline: 描述内容 # it will display as the sub-title
+tagline: 【描述文本】 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A test site.
+  中山大学标本馆讲解网站
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
