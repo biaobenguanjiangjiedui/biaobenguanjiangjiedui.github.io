@@ -1,4 +1,4 @@
-# The Site Configuration
+biaobenguanjiangjiedui.github.io# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -14,16 +14,16 @@ timezone: America/NewYork
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PANDA # the main title
+title: 标本博物馆 # the main title
 
-tagline: A cs rookie. # it will display as the sub-title
+tagline: 描述内容 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A test site.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://pandasysu.github.io"
+url: "https://biaobenguanjiangjiedui.github.io"
 
 github:
   username: pandasysu # change to your github username
