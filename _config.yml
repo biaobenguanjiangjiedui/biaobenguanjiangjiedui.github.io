@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://biaobenguanjiangjiedui.github.io"
 
 github:
-  username: pandasysu # change to your github username
+  username: biaobenguanjiangjiedui # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
@@ -34,12 +34,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: panda
+  name: biaobenguanjiangjiedui
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/pandasysu
+    - https://github.com/biaobenguanjiangjiedui
     # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
