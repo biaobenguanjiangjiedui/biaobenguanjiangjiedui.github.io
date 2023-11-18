@@ -14,9 +14,9 @@ timezone: America/NewYork
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 标本博物馆 # the main title
+title: MMS # the main title
 
-tagline: 描述内容 # it will display as the sub-title
+tagline: content # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A test site.
