@@ -51,10 +51,10 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: 作者
-  posted: 发表于
+  # written_by: 作者
+  # posted: 发表于
   updated: 更新于
-  words: 字
+  # words: 字
   pageview_measure: 次浏览
   read_time:
     unit: 分钟
