@@ -25,10 +25,14 @@
 
     .preview-img {
       @extend %img-radius;
+      // new : 新增的这一行可以调整图片框的高度
       height: 135px;
+      // new end;
 
       img {
         @extend %img-radius;
+        // tips : 在此之后新增 `height: ??px` 可以调整图片本身的高度 
+        // what is ps? it's `pixel`.
       }
     }
 
