@@ -25,6 +25,7 @@
 
     .preview-img {
       @extend %img-radius;
+      height: 135px;
 
       img {
         @extend %img-radius;
